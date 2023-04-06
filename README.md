@@ -3,7 +3,7 @@ To build a CI/CD pipeline to demonstrate continuous deployment and host the appl
 
 Technologies used: 
 
->>  Eclipse
->>  GitHub
->>  Jenkins
->>  AWS EC2/ Virtual machine
+>> Eclipse
+>> Github
+>> Jenkins
+>> AWS/EC2
